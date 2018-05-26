@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="show_me">Show me</string>
+    <string name="what_day">What day is today?</string>
+    <string name="count">Count</string>
+    <string name="to_random">Next</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="show_count">0</string>
+
+</resources>
